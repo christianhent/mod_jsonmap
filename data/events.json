@@ -1,0 +1,91 @@
+[
+{
+    "id":"1",
+    "name":"JoomlaCampDE",
+    "image":"https://pbs.twimg.com/profile_images/639435777584197632/62kqMcm4_400x400.png",
+    "icon":"https://pbs.twimg.com/profile_images/639435777584197632/62kqMcm4_bigger.png",
+    "summary":"Am 27. Februar 2016 findet das deutschlandweit erste JoomlaCamp, eine Unkonferenz zum beliebten OpenSource Content-Management- System Joomla! statt. Dich erwarten viele spannende Vorträge und interessante Gespräche mit anderen Community-Mitgliedern.",
+    "url": "http://www.joomlacamp.de/",
+    "geo":{
+        "latitude":"51.459070",
+        "longitude":"7.007455"
+    },
+    "properties": {
+        "contact":{
+            "email":"info@joomlacamp.de"
+        },
+        "address":{
+            "street":"Friedrich-Ebert-Str. 18",
+            "locality":"Essen",
+            "postal-code":"45127",
+            "country":"Germany",
+            "po-box": false
+        },
+        "location":{
+            "title":"Unperfekthaus",
+            "url":"http://www.unperfekthaus.de/",
+            "image":"http://www.unperfekthaus.de/b/uph/2014-05/DSC_1068_275x183.png"
+        },
+        "event": {
+            "category": "Unconference",
+            "discipline": "Joomla",
+            "dtstart":"1456561800",
+            "dtend":"1456594200",
+            "rdate":false,
+            "rrule":false
+        },
+        "product": {
+            "name":"JoomlaCampDE Tagesticket",
+            "image": false,
+            "summary": "Das Tagesticket für das Camp inklusive Essen und (alkoholfreie) Getränke liegt bei 30€ - kein Wenn, kein Aber, keine Mogelpackung. Einfach das Anmeldeformular ausfüllen und via Paypal bezahlen - schon bist du auf der Teilnehmerliste, die dich zur Teilnahme berechtigt.",
+            "url":"http://www.joomlacamp.de/#tickets",
+            "price": "30",
+            "currency": "EUR",
+            "brand": false
+        },
+        "social": {
+            "twitter":{
+                "url":"https://twitter.com/JoomlaCampDE"
+            },
+            "facebook": {
+                "url":"https://www.facebook.com/joomlacampde"
+            }
+        }
+    }
+},
+{
+    "id":"2",
+    "name":"Nürnberg Web Week",
+    "image":"https://pbs.twimg.com/profile_images/591171052547534848/21vgFcj0_400x400.jpg",
+    "icon":"https://pbs.twimg.com/profile_images/591171052547534848/21vgFcj0_400x400.jpg",
+    "summary":"Veranstaltungen, Konferenzen, Aktionen und Treffen rund um zentrale digitale Themen wie Social Media, Marketing, eCommerce, Coding (Web und Apps), Startups, Kreativkultur und mehr.",
+    "url": "http://nueww.de",
+    "geo":{
+        "latitude":"49.454392",
+        "longitude":"11.074471"
+    },
+    "properties": {
+        "contact":{
+            "email":false
+        },
+        "address":{
+            "street":"Weintraubengasse 2",
+            "locality":"Nürnberg",
+            "postal-code":"90403",
+            "country":"Germany",
+            "po-box": false
+        },
+        "location":false,
+        "event": {
+            "category": "Festival",
+            "discipline": "Digital society",
+            "duration":"8",
+            "dtstart":"1460358000",
+            "dtend":"1461002400",
+            "rdate":false,
+            "rrule":false
+        },
+        "social": false
+    }
+}
+]

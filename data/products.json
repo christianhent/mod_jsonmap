@@ -1,0 +1,48 @@
+[
+{
+    "id":"1",
+    "name":"Nürnberger Kaiserburg Röstung",
+    "image":false,
+    "icon":"https://www.roaststar.de/media/image/roaststar_logo150x15055632b525d00a.png",
+    "summary":false,
+    "url": "https://www.roaststar.de/roesttrommel-nuernberger-kaiserburg-roestung",
+    "geo":{
+        "latitude":"49.438452",
+        "longitude":"11.099068"
+    },
+    "properties": {
+        "product": {
+            "image": "https://www.roaststar.de/media/image/thumbnail/roesttrommel_nuernberger_kaffee_200x200.png",
+            "summary": "Die Nürnberger Kaiserburg Röstung, kombiniert zwei hell geröstete Kaffees aus Guatemala und Costa Rica. Dies führt zu einer sehr ausgewogenen, runden, mittelkräftigen Tasse, die die Eigenschaften des eher schokoladigen Kaffees aus Guatemala (La Cascada) und des sehr würzigen Costa Rica (Tarrazu) vereint. Ein ganz klassischer Kaffee.",
+            "url": "https://www.roaststar.de/roesttrommel-nuernberger-kaiserburg-roestung",
+            "price": "6.30",
+            "currency": "EUR",
+            "brand": "Rösttrommel"
+        }
+    }
+},
+{
+    "id":"2",
+    "name":"ATLANTIC Kettenfett mit PTFE",
+    "image":"https://shop.zweirad-stadler.de/out/pictures/master/product/1/atlantic_2015_kettenfettmitptfe_64858.jpg",
+    "icon":"https://shop.zweirad-stadler.de/out/azure/img/favicon.ico",
+    "summary":"Das Fett bildet durch das enthaltene PTFE einen Beschichtungsfilm und bietet dadurch einen extrem hohen Verschleißschutz. Das enthaltene Teflon® besitzt Notschmiereigenschaften. Hervorragender Korrosionsschutz durch eine hohe Abwaschbeständigkeit.",
+            "url":"http://www.atlantic-oel-shop.de",
+    "url": "https://shop.zweirad-stadler.de/Fahrrad-Teile/Werkzeuge-Pflege/Pflegemittel/Atlantic-Kettenfett-mit-PTFE-150-ml.html",
+    "geo":{
+        "latitude":"49.428174",
+        "longitude":"11.059502"
+    },
+    "properties": {
+        "product": {
+            "name": false,
+            "image": false,
+            "summary": false,
+            "url": false,
+            "price": "7.95",
+            "currency": "EUR",
+            "brand": "ATLANTIC"
+        }
+    }
+}
+]

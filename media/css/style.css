@@ -1,0 +1,16 @@
+.jsm-container {
+}
+
+.jsm-icon {
+	padding: 5px; 
+	width: 20px; 
+	height: 20px;
+}
+
+div.event {
+	margin-bottom: 10px;
+}
+
+ul.navbar {
+	text-align:right;
+}

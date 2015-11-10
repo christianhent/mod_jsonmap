@@ -1,0 +1,86 @@
+[
+{
+    "id":"1",
+    "name":"Westfalenstadion",
+    "image":"https://upload.wikimedia.org/wikipedia/de/9/9a/S%C3%BCdtrib%C3%BCne_Dortmund.jpg",
+    "icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/180px-Borussia_Dortmund_logo.svg.png",
+    "summary":"Football stadium in Dortmund, North Rhine-Westphalia, Germany. It is the home stadium of the Borussia Dortmund football team playing in the German Bundesliga.",
+    "url": false,
+    "geo":{
+        "latitude":"51.4925",
+        "longitude":"7.451667"
+    },
+    "properties": {
+        "address":{
+            "street":"Strobelallee 50",
+            "locality":"Dortmund",
+            "postal-code":"44139",
+            "country":"Germany",
+            "po-box": false
+        }
+    }
+},
+{
+    "id":"2",
+    "name":"Camp Nou",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/6/64/Tifo_at_Camp_Nou.jpg",
+    "icon":"https://upload.wikimedia.org/wikipedia/de/thumb/a/aa/Fc_barcelona.svg/100px-Fc_barcelona.svg.png",
+    "summary":"Football stadium in Barcelona, Catalonia, Spain, which has been the home of Futbol Club Barcelona since 1957.",
+    "url": "http://www.fcbarcelona.com/camp-nou",
+    "geo":{
+        "latitude":"41.380833",
+        "longitude":"2.1225"
+    },
+    "properties": {
+        "address":{
+            "street":"C. Aristides Maillol, 12",
+            "locality":"Barcelona",
+            "postal-code":"08028",
+            "country":"Spain",
+            "po-box": false
+        }
+    }
+},
+{
+    "id":"3",
+    "name":"La Bobonera",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/3/34/Boca_juniors_and_sao_paulo_-_recopa_sudamericana_of_2006_-_01.jpg",
+    "icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Boca_Juniors_2012.svg/130px-Boca_Juniors_2012.svg.png",
+    "summary":false,
+    "url": false,
+    "geo":{
+        "latitude":"-34.635556",
+        "longitude":"-58.364722"
+    },
+    "properties": {
+        "address":{
+            "street":"Brandsen 805",
+            "locality":"Buenos Aires",
+            "postal-code":"1161",
+            "country":"Argentina",
+            "po-box": false
+        }
+    }
+},
+{
+    "id":"4",
+    "name":"Anfield",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/2/29/The_Kop%2C_Anfield_%283%29.jpg",
+    "icon":"https://upload.wikimedia.org/wikipedia/de/thumb/0/0a/FC_Liverpool.svg/150px-FC_Liverpool.svg.png",
+    "summary":"Football stadium in Anfield, Liverpool. It has been the home of Liverpool F.C. since their formation in 1892.",
+    "url": "http://www.liverpoolfc.tv/stadium/anfield",
+    "geo":{
+        "latitude":"53.430828",
+        "longitude":"-2.960847"
+    },
+    "properties": {
+        "address":{
+            "street":"Anfield Rd",
+            "locality":"Liverpool",
+            "postal-code":"L4 0TH",
+            "country":"UK",
+            "po-box": false
+        }
+    }
+}
+]

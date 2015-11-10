@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" version="3.1" client="site" method="upgrade">
+	<name>MOD_JSONMAP</name>
+	<author>Christian Hent</author>
+	<creationDate>Nov 2015</creationDate>
+	<copyright>Copyright (C) Christian Hent. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<authorEmail>hent.dev@googlemail.com</authorEmail>
+	<version>1.4.9</version>
+	<description>MOD_JSONMAP_XML_DESCRIPTION</description>
+	<files>
+		<filename module="mod_jsonmap">mod_jsonmap.php</filename>
+		<folder>jsonmap</folder>
+		<folder>data</folder>
+		<filename>helper.php</filename>
+		<filename>index.html</filename>
+		<filename>mod_jsonmap.xml</filename>
+	</files>
+	<media folder="media" destination="mod_jsonmap">
+		<folder>js</folder>
+		<folder>css</folder>
+		<filename>index.html</filename>
+	</media>
+	<scriptfile>jsonmap.script.php</scriptfile>
+	<languages>
+		<language tag="en-GB">language/en-GB/en-GB.mod_jsonmap.ini</language>
+		<language tag="en-GB">language/en-GB/en-GB.mod_jsonmap.sys.ini</language>
+		<language tag="fr-FR">language/fr-FR/fr-FR.mod_jsonmap.ini</language>
+		<language tag="fr-FR">language/fr-FR/fr-FR.mod_jsonmap.sys.ini</language>
+		<language tag="de-DE">language/de-DE/de-DE.mod_jsonmap.ini</language>
+		<language tag="de-DE">language/de-DE/de-DE.mod_jsonmap.sys.ini</language>
+	</languages>
+	<config>
+		<fields name="params">
+			<fieldset name="basic">
+			</fieldset>
+			<fieldset name="display" label="MOD_JSONMAP_DISPLAY_FIELDSET_LBL">
+            	<field 
+            		name="datasource"
+            		type="filelist"
+            		default="data.json"
+            		label="MOD_JSONMAP_DATASOURCE_SELECT_LBL"
+            		description="MOD_JSONMAP_DATASOURCE_SELECT_DESC"
+            		directory="modules/mod_jsonmap/data/"
+            		filter=""
+            		exclude="index.html"
+            		stripext=""
+            	/>
+            	<field
+					name="layout"
+					type="list"
+					class="btn-group"
+					default="1"
+					label="MOD_JSONMAP_LAYOUT_LBL"
+					description="MOD_JSONMAP_LAYOUT_DESC">
+					<option value="split">MOD_JSONMAP_LAYOUT_SPLIT</option>
+            		<option value="map">MOD_JSONMAP_LAYOUT_MAP</option>
+            		<option value="list">MOD_JSONMAP_LAYOUT_LIST</option>
+            		<option value="events">MOD_JSONMAP_LAYOUT_EVENTS</option>
+            		<option value="places">MOD_JSONMAP_LAYOUT_PLACES</option>
+            		<option value="products">MOD_JSONMAP_LAYOUT_PRODUCTS</option>
+            	</field>
+            	<field
+					showon="layout:map,split,events,places,products"
+					name="map_height"
+					type="text"
+					class="btn-group"
+					default="320"
+					label="MOD_JSONMAP_MAP_HEIGHT_LBL"
+					description="MOD_JSONMAP_MAP_HEIGHT_DESC"
+				/>
+            	<field
+					showon="layout:list,split,events,places,products"
+					name="jump"
+					type="radio"
+					class="btn-group"
+					default="0"
+					label="MOD_JSONMAP_JUMPLINKS_LBL"
+					description="MOD_JSONMAP_JUMPLINKS_DESC">
+					<option value="0">JNO</option>
+            		<option value="1">JYES</option>
+            	</field>
+            	<field
+					showon="layout:map,split,events,places,products"
+					name="show_mapnavbar"
+					type="radio"
+					class="btn-group"
+					default="1"
+					label="MOD_JSONMAP_SHOW_MAPNAVBAR_LBL"
+					description="MOD_JSONMAP_SHOW_MAPNAVBAR_DESC">
+					<option value="0">JNO</option>
+            		<option value="1">JYES</option>
+            	</field>
+            	<field
+					name="styles"
+					type="hidden"
+					default='[{"featureType":"administrative","elementType":"all","stylers":[{"visibility":"on"},{"saturation":-100},{"lightness":20}]},{"featureType":"landscape.man_made","elementType":"all","stylers":[{"visibility":"simplified"},{"saturation":-60},{"lightness":10}]},{"featureType":"landscape.natural","elementType":"all","stylers":[{"visibility":"simplified"},{"saturation":-60},{"lightness":60}]},{"featureType":"poi","elementType":"all","stylers":[{"visibility":"off"},{"saturation":-100},{"lightness":60}]},{"featureType":"road","elementType":"all","stylers":[{"visibility":"on"},{"saturation":-100},{"lightness":40}]},{"featureType":"transit","elementType":"all","stylers":[{"visibility":"off"},{"saturation":-100},{"lightness":60}]},{"featureType":"water","elementType":"all","stylers":[{"visibility":"on"},{"saturation":-10},{"lightness":30}]}]'/>
+            	<field
+					showon="layout:map,split,events,places,products"
+					name="show_styles"
+					type="radio"
+					class="btn-group"
+					default="0"
+					label="MOD_JSONMAP_SHOW_MAP_STYLES_LBL"
+					description="MOD_JSONMAP_SHOW_MAP_STYLES_DESC">
+					<option value="0">JNO</option>
+            		<option value="1">JYES</option>
+            	</field>
+			</fieldset>
+			<fieldset
+				name="advanced">
+				<field
+					name="moduleclass_sfx"
+					type="textarea"
+					rows="3"
+					label="COM_MODULES_FIELD_MODULECLASS_SFX_LABEL"
+					description="COM_MODULES_FIELD_MODULECLASS_SFX_DESC" />
+			</fieldset>
+		</fields>
+	</config>
+</extension>

@@ -1,0 +1,171 @@
+[
+{
+    "id":"1",
+    "name":"JUG Nürnberg",
+    "image":"https://pbs.twimg.com/profile_images/566319675936485376/3nQX4VhD_bigger.png",
+    "icon":"https://pbs.twimg.com/profile_images/566319675936485376/3nQX4VhD_bigger.png",
+    "summary":false,
+    "url": "http://www.jugn.de/",
+    "geo":{
+        "latitude":"49.451933",
+        "longitude":"11.073468"
+    },
+    "properties": false
+},
+{
+    "id":"2",
+    "name":"JUG Köln",
+    "image":"https://pbs.twimg.com/profile_images/566319675936485376/3nQX4VhD_bigger.png",
+    "icon":"https://pbs.twimg.com/profile_images/566319675936485376/3nQX4VhD_bigger.png",
+    "summary":false,
+    "url": "http://www.jugc.de/",
+    "geo":{
+        "latitude":"50.954180",
+        "longitude":"6.954664"
+    },
+    "properties": false
+},
+{
+    "id":"3",
+    "name":"JUG Hamburg",
+    "image":"https://pbs.twimg.com/profile_images/566319675936485376/3nQX4VhD_bigger.png",
+    "icon":"https://pbs.twimg.com/profile_images/566319675936485376/3nQX4VhD_bigger.png",
+    "summary":false,
+    "url": "http://jug-hamburg.de/",
+    "geo":{
+        "latitude":"53.590415",
+        "longitude":"10.034638"
+    },
+    "properties": false
+},
+{
+    "id":"4",
+    "name":"JUG München",
+    "image":"https://pbs.twimg.com/profile_images/566319675936485376/3nQX4VhD_bigger.png",
+    "icon":"https://pbs.twimg.com/profile_images/566319675936485376/3nQX4VhD_bigger.png",
+    "summary":false,
+    "url": "http://jug-muenchen.de/",
+    "geo":{
+        "latitude":"48.134996",
+        "longitude":"11.499042"
+    },
+    "properties": false
+},
+{
+    "id":"5",
+    "name":"JUG Friedrichshafen",
+    "image":"https://pbs.twimg.com/profile_images/566319675936485376/3nQX4VhD_bigger.png",
+    "icon":"https://pbs.twimg.com/profile_images/566319675936485376/3nQX4VhD_bigger.png",
+    "summary":false,
+    "url": "http://www.jug-friedrichshafen.de/",
+    "geo":{
+        "latitude":"47.654517",
+        "longitude":"9.472991"
+    },
+    "properties": false
+},
+{
+    "id":"6",
+    "name":"JUG Frankfurt Main",
+    "image":"https://pbs.twimg.com/profile_images/566319675936485376/3nQX4VhD_bigger.png",
+    "icon":"https://pbs.twimg.com/profile_images/566319675936485376/3nQX4VhD_bigger.png",
+    "summary":false,
+    "url": "http://www.joomla-rhein-main.de/",
+    "geo":{
+        "latitude":"50.082829",
+        "longitude":"8.609311"
+    },
+    "properties": false
+},
+{
+    "id":"7",
+    "name":"JUG Sauerland",
+    "image":"https://pbs.twimg.com/profile_images/566319675936485376/3nQX4VhD_bigger.png",
+    "icon":"https://pbs.twimg.com/profile_images/566319675936485376/3nQX4VhD_bigger.png",
+    "summary":false,
+    "url": "http://www.jug-sauerland.de/",
+    "geo":{
+        "latitude":"51.496633",
+        "longitude":"8.049131"
+    },
+    "properties": false
+},
+{
+    "id":"8",
+    "name":"JUG Berlin",
+    "image":"https://pbs.twimg.com/profile_images/566319675936485376/3nQX4VhD_bigger.png",
+    "icon":"https://pbs.twimg.com/profile_images/566319675936485376/3nQX4VhD_bigger.png",
+    "summary":false,
+    "url": "http://www.joomla-in-berlin.de/",
+    "geo":{
+        "latitude":"52.534491",
+        "longitude":"13.358613"
+    },
+    "properties": false
+},
+{
+    "id":"9",
+    "name":"JUG Koblent",
+    "image":"https://pbs.twimg.com/profile_images/566319675936485376/3nQX4VhD_bigger.png",
+    "icon":"https://pbs.twimg.com/profile_images/566319675936485376/3nQX4VhD_bigger.png",
+    "summary":false,
+    "url": "http://www.jug-koblenz.de/",
+    "geo":{
+        "latitude":"50.372846",
+        "longitude":"7.551995"
+    },
+    "properties": false
+},
+{
+    "id":"10",
+    "name":"JUG Im Pott",
+    "image":"https://pbs.twimg.com/profile_images/566319675936485376/3nQX4VhD_bigger.png",
+    "icon":"https://pbs.twimg.com/profile_images/566319675936485376/3nQX4VhD_bigger.png",
+    "summary":false,
+    "url": "http://www.jug-im-pott.de/",
+    "geo":{
+        "latitude":"51.458979",
+        "longitude":"7.007430"
+    },
+    "properties": false
+},
+{
+    "id":"11",
+    "name":"JUG Freiburg",
+    "image":"https://pbs.twimg.com/profile_images/566319675936485376/3nQX4VhD_bigger.png",
+    "icon":"https://pbs.twimg.com/profile_images/566319675936485376/3nQX4VhD_bigger.png",
+    "summary":false,
+    "url": "http://www.jug-freiburg.de/",
+    "geo":{
+        "latitude":"47.992187",
+        "longitude":"7.854216"
+    },
+    "properties": false
+},
+{
+    "id":"12",
+    "name":"JUG Karlsruhe",
+    "image":"https://pbs.twimg.com/profile_images/566319675936485376/3nQX4VhD_bigger.png",
+    "icon":"https://pbs.twimg.com/profile_images/566319675936485376/3nQX4VhD_bigger.png",
+    "summary":false,
+    "url": "http://ka-jug.de/",
+    "geo":{
+        "latitude":"48.999734",
+        "longitude":"8.385712"
+    },
+    "properties": false
+},
+{
+    "id":"13",
+    "name":"JUG Stuttgart",
+    "image":"https://pbs.twimg.com/profile_images/566319675936485376/3nQX4VhD_bigger.png",
+    "icon":"https://pbs.twimg.com/profile_images/566319675936485376/3nQX4VhD_bigger.png",
+    "summary":false,
+    "url": "http://joomla-group-stuttgart.de/",
+    "geo":{
+        "latitude":"48.681179",
+        "longitude":"8.974178"
+    },
+    "properties": false
+}
+]
