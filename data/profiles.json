@@ -336,5 +336,18 @@
       "longitude": "-2.616667"
     },
     "properties": false
+  },
+  {
+    "id": "27",
+    "name": "Gunjan Patel",
+    "image": "https://www.endomondo.com/resources/gfx/picture/27491634/thumbnail.jpg",
+    "icon": "https://www.endomondo.com/resources/gfx/picture/27491634/thumbnail.jpg",
+    "summary": false,
+    "url": "https://www.endomondo.com/profile/24488223",
+    "geo": {
+      "latitude": "23.101935",
+      "longitude": "72.536742"
+    },
+    "properties": false
   }
 ]
