@@ -414,5 +414,57 @@
       "longitude": "9.004505"
     },
     "properties": false
+  },
+  {
+    "id": "33",
+    "name": "Holger Kremers",
+    "image": "https://www.endomondo.com/resources/gfx/picture/2927318/thumbnail.jpg",
+    "icon": "https://www.endomondo.com/resources/gfx/picture/2927318/thumbnail.jpg",
+    "summary": false,
+    "url": "https://www.endomondo.com/profile/7097497",
+    "geo": {
+      "latitude": "50.816111",
+      "longitude": "7.155556"
+    },
+    "properties": false
+  },
+  {
+    "id": "34",
+    "name": "Eric Lamy",
+    "image": "https://www.endomondo.com/resources/gfx/picture/2307547/thumbnail.jpg",
+    "icon": "https://www.endomondo.com/resources/gfx/picture/2307547/thumbnail.jpg",
+    "summary": false,
+    "url": "https://www.endomondo.com/profile/6072935",
+    "geo": {
+      "latitude": "44.837778",
+      "longitude": "-0.579444"
+    },
+    "properties": false
+  },
+  {
+    "id": "35",
+    "name": "Constantin Romankiewicz",
+    "image": "https://www.endomondo.com/resources/default/user/thumbnail.png",
+    "icon": "https://www.endomondo.com/resources/default/user/thumbnail.png",
+    "summary": false,
+    "url": "https://www.endomondo.com/profile/23236219",
+    "geo": {
+      "latitude": "52.020417",
+      "longitude": "8.532222"
+    },
+    "properties": false
+  },
+  {
+    "id": "36",
+    "name": "Paweł Bieniewski",
+    "image": "https://www.endomondo.com/resources/gfx/picture/20663535/thumbnail.jpg",
+    "icon": "https://www.endomondo.com/resources/gfx/picture/20663535/thumbnail.jpg",
+    "summary": false,
+    "url": "https://www.endomondo.com/profile/21573630",
+    "geo": {
+      "latitude": "52.416667",
+      "longitude": "20.883333"
+    },
+    "properties": false
   }
 ]
