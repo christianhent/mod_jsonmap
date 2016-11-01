@@ -54,6 +54,8 @@ class mod_jsonmapInstallerScript
         jimport('joomla.filesystem.folder');
         jimport('joomla.filesystem.file');
 
+        $release = $parent->get( "manifest" )->version;
+
         $path  = $parent->getParent()->getPath('source');
         $src   = $path.'/jsonmap';
         $dest  = JPATH_SITE . '/layouts/joomla/jsonmap';
@@ -70,7 +72,7 @@ class mod_jsonmapInstallerScript
         	JError::raiseWarning(100, $retVal);
         }
 
-        JFactory::getApplication()->enqueueMessage(JText::_('MOD_JSONMAP_UPDATE_NOTICE'), 'notice');
+        JFactory::getApplication()->enqueueMessage(JText::_('MOD_JSONMAP_UPDATE_NOTICE') . $release , 'notice');        
     }
 
     public function uninstall($parent)
@@ -86,7 +88,7 @@ class mod_jsonmapInstallerScript
         }   
     }
 
-    function postflight($type, $parent) 
+    public function postflight($type, $parent) 
 	{
 		jimport('joomla.filesystem.folder');
         jimport('joomla.filesystem.file');
