@@ -10,10 +10,13 @@
 defined('_JEXEC') or die;
 # jQuery
 JHtml::_('jquery.framework');
+#GMaps
+$api_key = $displayData['params']->get('gapi_key');
 # JS
 $doc = JFactory::getDocument();
-$doc->addScript('https://maps.googleapis.com/maps/api/js?v=3');
+$doc->addScript('https://maps.googleapis.com/maps/api/js?v=3&key=' . $api_key);
 $doc->addScript('http://google-maps-utility-library-v3.googlecode.com/svn/trunk/markerclustererplus/src/markerclusterer_packed.js');
+$doc->addScript('media/mod_jsonmap/js/markerclusterer.js');
 $doc->addScript('media/mod_jsonmap/js/oms.min.js');
 // Descriptive
 $items  = $displayData['items'];

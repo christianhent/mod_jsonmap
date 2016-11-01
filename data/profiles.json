@@ -2,8 +2,8 @@
   {
     "id": "1",
     "name": "Christian Hent",
-    "image": "https://www.endomondo.com/resources/gfx/picture/25778362/thumbnail.jpg",
-    "icon": "https://www.endomondo.com/resources/gfx/picture/25778362/thumbnail.jpg",
+    "image": "https://www.endomondo.com/resources/gfx/picture/34083903/thumbnail.jpg",
+    "icon": "https://www.endomondo.com/resources/gfx/picture/34083903/thumbnail.jpg",
     "summary": false,
     "url": "https://www.endomondo.com/profile/15238177",
     "geo": {
@@ -132,8 +132,8 @@
   {
     "id": "11",
     "name": "Wojciech Sobczak",
-    "image": "https://www.endomondo.com/resources/gfx/picture/7474132/thumbnail.jpg",
-    "icon": "https://www.endomondo.com/resources/gfx/picture/7474132/thumbnail.jpg",
+    "image": "https://www.endomondo.com/resources/gfx/picture/29818207/thumbnail.jpg",
+    "icon": "https://www.endomondo.com/resources/gfx/picture/29818207/thumbnail.jpg",
     "summary": false,
     "url": "https://www.endomondo.com/profile/1505289",
     "geo": {
@@ -210,8 +210,8 @@
   {
     "id": "17",
     "name": "Veselin Stefanov",
-    "image": "https://www.endomondo.com/resources/gfx/picture/26059342/thumbnail.jpg",
-    "icon": "https://www.endomondo.com/resources/gfx/picture/26059342/thumbnail.jpg",
+    "image": "https://www.endomondo.com/resources/gfx/picture/35535141/thumbnail.jpg",
+    "icon": "https://www.endomondo.com/resources/gfx/picture/35535141/thumbnail.jpg",
     "summary": false,
     "url": "https://www.endomondo.com/profile/24304165",
     "geo": {
@@ -262,8 +262,8 @@
   {
     "id": "21",
     "name": "Hans van der Meer",
-    "image": "https://www.endomondo.com/resources/gfx/picture/24235208/thumbnail.jpg",
-    "icon": "https://www.endomondo.com/resources/gfx/picture/24235208/thumbnail.jpg",
+    "image": "https://www.endomondo.com/resources/gfx/picture/29120606/thumbnail.jpg",
+    "icon": "https://www.endomondo.com/resources/gfx/picture/29120606/thumbnail.jpg",
     "summary": false,
     "url": "https://www.endomondo.com/profile/21622124",
     "geo": {
@@ -379,8 +379,8 @@
   {
     "id": "30",
     "name": "Luis Macho",
-    "image": "https://www.endomondo.com/resources/gfx/picture/236797/thumbnail.jpg",
-    "icon": "https://www.endomondo.com/resources/gfx/picture/236797/thumbnail.jpg",
+    "image": "https://www.endomondo.com/resources/gfx/picture/30824127/thumbnail.jpg",
+    "icon": "https://www.endomondo.com/resources/gfx/picture/30824127/thumbnail.jpg",
     "summary": false,
     "url": "https://www.endomondo.com/profile/1550124",
     "geo": {
@@ -466,5 +466,84 @@
       "longitude": "20.883333"
     },
     "properties": false
+  },
+  {
+    "id": "37",
+    "name": "Michiel Verhoef",
+    "image": "https://www.endomondo.com/resources/gfx/picture/37013557/thumbnail.jpg",
+    "icon": "https://www.endomondo.com/resources/gfx/picture/37013557/thumbnail.jpg",
+    "summary": false,
+    "url": "https://www.endomondo.com/profile/9265177",
+    "geo": {
+      "latitude": "52.370197",
+      "longitude": "4.890444"
+    },
+    "properties": false
+  },
+  {
+    "id": "38",
+    "name": "Marcin Zieliński",
+    "image": "https://www.endomondo.com/resources/gfx/picture/29412929/thumbnail.jpg",
+    "icon": "https://www.endomondo.com/resources/gfx/picture/29412929/thumbnail.jpg",
+    "summary": false,
+    "url": "https://www.endomondo.com/profile/13169845",
+    "geo": {
+      "latitude": "52.7",
+      "longitude": "16.383333"
+    },
+    "properties": false
+  },
+  {
+    "id": "39",
+    "name": "Hagen Graf",
+    "image": "https://www.endomondo.com/resources/gfx/picture/29488070/thumbnail.jpg",
+    "icon": "https://www.endomondo.com/resources/gfx/picture/29488070/thumbnail.jpg",
+    "summary": false,
+    "url": "https://www.endomondo.com/profile/26495676",
+    "geo": {
+      "latitude": "42.893611",
+      "longitude": "2.978611"
+    },
+    "properties": false
+  },
+  {
+    "id": "40",
+    "name": "Opati Aswani",
+    "image": "https://www.endomondo.com/resources/gfx/picture/28563578/thumbnail.jpg",
+    "icon": "https://www.endomondo.com/resources/gfx/picture/28563578/thumbnail.jpg",
+    "summary": false,
+    "url": "https://www.endomondo.com/profile/24382363",
+    "geo": {
+      "latitude": "-1.283333",
+      "longitude": "36.816667"
+    },
+    "properties": false
+  },
+  {
+    "id": "41",
+    "name": "Piotr Kwiatkowski",
+    "image": "https://www.endomondo.com/resources/gfx/picture/33705337/thumbnail.jpg",
+    "icon": "https://www.endomondo.com/resources/gfx/picture/33705337/thumbnail.jpg",
+    "summary": false,
+    "url": "https://www.endomondo.com/profile/28940595",
+    "geo": {
+      "latitude": "51.952778",
+      "longitude": "20.141667"
+    },
+    "properties": false
+  },
+  {
+    "id": "42",
+    "name": "Axel Hartmann",
+    "image": "https://www.endomondo.com/resources/gfx/picture/23423255/thumbnail.jpg",
+    "icon": "https://www.endomondo.com/resources/gfx/picture/23423255/thumbnail.jpg",
+    "summary": false,
+    "url": "https://www.endomondo.com/profile/21634041",
+    "geo": {
+      "latitude": "54.45",
+      "longitude": "9.333333"
+    },
+    "properties": false
   }
+
 ]

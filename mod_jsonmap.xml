@@ -2,11 +2,11 @@
 <extension type="module" version="3.1" client="site" method="upgrade">
 	<name>MOD_JSONMAP</name>
 	<author>Christian Hent</author>
-	<creationDate>Nov 2015</creationDate>
+	<creationDate>November 2016</creationDate>
 	<copyright>Copyright (C) Christian Hent. All rights reserved.</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
 	<authorEmail>hent.dev@googlemail.com</authorEmail>
-	<version>1.4.9</version>
+	<version>1.5.1</version>
 	<description>MOD_JSONMAP_XML_DESCRIPTION</description>
 	<files>
 		<filename module="mod_jsonmap">mod_jsonmap.php</filename>
@@ -19,6 +19,7 @@
 	<media folder="media" destination="mod_jsonmap">
 		<folder>js</folder>
 		<folder>css</folder>
+		<folder>images</folder>
 		<filename>index.html</filename>
 	</media>
 	<scriptfile>jsonmap.script.php</scriptfile>
@@ -106,6 +107,14 @@
 					<option value="0">JNO</option>
             		<option value="1">JYES</option>
             	</field>
+            	<field 
+                    type="text"
+                    name="gapi_key"
+                    size="50"
+                    filter="string"
+                    label="MOD_JSONMAP_FIELD_GAPI_KEY_LBL" 
+                    description="MOD_JSONMAP_FIELD_GAPI_KEY_DESC"
+                />
 			</fieldset>
 			<fieldset
 				name="advanced">
