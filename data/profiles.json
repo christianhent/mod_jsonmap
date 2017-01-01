@@ -130,19 +130,6 @@
     "properties": false
   },
   {
-    "id": "11",
-    "name": "Wojciech Sobczak",
-    "image": "https://www.endomondo.com/resources/gfx/picture/29818207/thumbnail.jpg",
-    "icon": "https://www.endomondo.com/resources/gfx/picture/29818207/thumbnail.jpg",
-    "summary": false,
-    "url": "https://www.endomondo.com/profile/1505289",
-    "geo": {
-      "latitude": "53.7",
-      "longitude": "17.55"
-    },
-    "properties": false
-  },
-  {
     "id": "12",
     "name": "Alan Langford",
     "image": "https://www.endomondo.com/resources/default/user/thumbnail.png",
@@ -165,19 +152,6 @@
     "geo": {
       "latitude": "50.3",
       "longitude": "18.783333"
-    },
-    "properties": false
-  },
-  {
-    "id": "14",
-    "name": "Tomasz Mączka",
-    "image": "https://www.endomondo.com/resources/gfx/picture/11431381/thumbnail.jpg",
-    "icon": "https://www.endomondo.com/resources/gfx/picture/11431381/thumbnail.jpg",
-    "summary": false,
-    "url": "https://www.endomondo.com/profile/16448444",
-    "geo": {
-      "latitude": "51.683333",
-      "longitude": "17.433333"
     },
     "properties": false
   },
@@ -327,8 +301,8 @@
   {
     "id": "26",
     "name": "Carlos M. Camara",
-    "image": "https://www.endomondo.com/resources/gfx/picture/24722847/thumbnail.jpg",
-    "icon": "https://www.endomondo.com/resources/gfx/picture/24722847/thumbnail.jpg",
+    "image": "https://www.endomondo.com/resources/gfx/picture/39111103/thumbnail.jpg",
+    "icon": "https://www.endomondo.com/resources/gfx/picture/39111103/thumbnail.jpg",
     "summary": false,
     "url": "https://www.endomondo.com/profile/23327202",
     "geo": {
@@ -470,8 +444,8 @@
   {
     "id": "37",
     "name": "Michiel Verhoef",
-    "image": "https://www.endomondo.com/resources/gfx/picture/37013557/thumbnail.jpg",
-    "icon": "https://www.endomondo.com/resources/gfx/picture/37013557/thumbnail.jpg",
+    "image": "https://www.endomondo.com/resources/gfx/picture/38285922/thumbnail.jpg",
+    "icon": "https://www.endomondo.com/resources/gfx/picture/38285922/thumbnail.jpg",
     "summary": false,
     "url": "https://www.endomondo.com/profile/9265177",
     "geo": {
